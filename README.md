@@ -5,7 +5,7 @@
 <br>
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shekhar81/">
+  <a href="https://www.linkedin.com/in/shekhar81/" target="_blank">
     <img src="https://img.shields.io/badge/Shekhar Suman-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:shekhar74suman@gmail.com">
