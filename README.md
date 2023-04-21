@@ -11,7 +11,7 @@
   <a href="mailto:shekhar74suman@gmail.com">
     <img src="https://img.shields.io/badge//Shekhar Suman-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="shekhar74.github.io/">
+  <a href="https://shekhar74.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Portfolio Badge"/>
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1e9YYU1Gq6lMYG83eB70nCGR98newj81G">
